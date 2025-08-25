@@ -41,8 +41,8 @@ st.title("🚚 Walmart Smart Inventory Routing System")
 st.subheader("Optimized Product Transfers Between Supercenters Based on Real-Time Conditions")
 
 # API Keys (Replace with your actual keys)
-VISUALCROSSING_API_KEY = "84L6CRMYK6LDSYJDLDBL7SG8V"
-GOOGLE_MAPS_API_KEY = "AIzaSyARLmytrjxK2cZsrXh2-2TUFBjiANnrkiE" 
+VISUALCROSSING_API_KEY = "Your_VISUALCROSSING_API_KEY"
+GOOGLE_MAPS_API_KEY = "Your_GOOGLE_MAPS_API_KEY" 
 gmaps = googlemaps.Client(key=GOOGLE_MAPS_API_KEY)
 
 # Constants

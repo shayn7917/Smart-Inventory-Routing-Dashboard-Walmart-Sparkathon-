@@ -1,8 +1,10 @@
 streamlit
 pandas
 numpy
-scikit-learn
-requests
 plotly
+scikit-learn
 geopy
 googlemaps
+requests
+joblib
+pytz

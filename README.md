@@ -11,5 +11,5 @@ A real-time dashboard for optimizing inter-store inventory transfers for retail 
 ### Tech Stack
 - **Languages/Tools:** Python, Streamlit, Scikit-learn, Random Forest, Google Maps API, VisualCrossing API
 
-🚀 **Live Demo:** [Open App on Streamlit Cloud]([https://your-username-your-repo-name.streamlit.app](https://x9zb5n9r59f26nrxcwg4bh.streamlit.app/))
+🚀 **Live Demo:** [Open App on Streamlit Cloud](https://x9zb5n9r59f26nrxcwg4bh.streamlit.app/)
 
